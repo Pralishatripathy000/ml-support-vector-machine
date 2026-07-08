@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="122e2c5b-3b44-4123-9089-3fc48290a98a" src="https://github.com/user-attachments/assets/1a21e569-b110-449a-8f0a-4395eec51f52" />
+
+
 # ❤️ ML Support Vector Machine
 
 > **An end-to-end implementation of Support Vector Machine (SVM) Classification using the Heart Disease Prediction dataset, covering exploratory data analysis, kernel comparison, hyperparameter tuning, decision boundary analysis, and model evaluation.**
