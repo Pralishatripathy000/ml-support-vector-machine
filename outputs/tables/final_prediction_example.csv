@@ -1,0 +1,2 @@
+age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Actual Diagnosis,Predicted Diagnosis,No Disease Probability,Heart Disease Probability
+59.0,1.0,4.0,138.0,271.0,0.0,2.0,182.0,0.0,0.0,1.0,0.0,3.0,No Heart Disease,No Heart Disease,0.8305136069040628,0.16948639309593705
