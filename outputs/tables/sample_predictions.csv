@@ -1,0 +1,62 @@
+Actual,Predicted,Disease Probability,Actual Diagnosis,Predicted Diagnosis
+0,0,0.21814890689230584,No Heart Disease,No Heart Disease
+0,1,0.7367527747184546,No Heart Disease,Heart Disease
+0,0,0.057479947667285806,No Heart Disease,No Heart Disease
+0,0,0.11944032358940543,No Heart Disease,No Heart Disease
+0,1,0.6415812463503896,No Heart Disease,Heart Disease
+0,0,0.22553769490159659,No Heart Disease,No Heart Disease
+0,0,0.21480671772337426,No Heart Disease,No Heart Disease
+0,0,0.28276673396201074,No Heart Disease,No Heart Disease
+1,1,0.7576189572931341,Heart Disease,Heart Disease
+0,0,0.17290453003104028,No Heart Disease,No Heart Disease
+1,1,0.8031490345825837,Heart Disease,Heart Disease
+0,0,0.12100995568758506,No Heart Disease,No Heart Disease
+0,0,0.09192019826448197,No Heart Disease,No Heart Disease
+1,1,0.7960993455604514,Heart Disease,Heart Disease
+1,1,0.9228931048692943,Heart Disease,Heart Disease
+1,1,0.8301371790678115,Heart Disease,Heart Disease
+1,1,0.8810315802495424,Heart Disease,Heart Disease
+0,0,0.3836433494026028,No Heart Disease,No Heart Disease
+1,1,0.6970206016957409,Heart Disease,Heart Disease
+1,1,0.8832235283623574,Heart Disease,Heart Disease
+0,1,0.726378135546458,No Heart Disease,Heart Disease
+0,0,0.09514965376254161,No Heart Disease,No Heart Disease
+1,1,0.7983894018810722,Heart Disease,Heart Disease
+0,1,0.5360176842773694,No Heart Disease,Heart Disease
+1,1,0.6751480046677654,Heart Disease,Heart Disease
+0,0,0.10577371538939398,No Heart Disease,No Heart Disease
+0,0,0.1431688181377487,No Heart Disease,No Heart Disease
+1,1,0.9392107132924977,Heart Disease,Heart Disease
+0,0,0.4654151602499962,No Heart Disease,No Heart Disease
+1,1,0.8395690136371855,Heart Disease,Heart Disease
+0,0,0.5,No Heart Disease,No Heart Disease
+1,1,0.9299119064678053,Heart Disease,Heart Disease
+1,1,0.8348477195082629,Heart Disease,Heart Disease
+0,0,0.4098931018063526,No Heart Disease,No Heart Disease
+0,0,0.20772495885066475,No Heart Disease,No Heart Disease
+1,1,0.9157214790183229,Heart Disease,Heart Disease
+0,0,0.16126124261602978,No Heart Disease,No Heart Disease
+1,0,0.2776154794209597,Heart Disease,No Heart Disease
+0,0,0.06401546092045805,No Heart Disease,No Heart Disease
+1,1,0.6785771648945398,Heart Disease,Heart Disease
+0,1,0.9399293574906136,No Heart Disease,Heart Disease
+1,1,0.9784684191040948,Heart Disease,Heart Disease
+1,1,0.9310099734681624,Heart Disease,Heart Disease
+1,1,0.8432047798428733,Heart Disease,Heart Disease
+0,0,0.15555664602895106,No Heart Disease,No Heart Disease
+0,0,0.11805019639919181,No Heart Disease,No Heart Disease
+1,1,0.9562147939482065,Heart Disease,Heart Disease
+0,0,0.07810781696859234,No Heart Disease,No Heart Disease
+1,1,0.945564858071443,Heart Disease,Heart Disease
+0,0,0.5,No Heart Disease,No Heart Disease
+0,0,0.07685984980656083,No Heart Disease,No Heart Disease
+1,1,0.9792370965363533,Heart Disease,Heart Disease
+0,1,0.5916035751239973,No Heart Disease,Heart Disease
+0,0,0.08261749381051381,No Heart Disease,No Heart Disease
+1,0,0.4742764891013575,Heart Disease,No Heart Disease
+1,1,0.9488011152115237,Heart Disease,Heart Disease
+1,1,0.8700587142904785,Heart Disease,Heart Disease
+1,0,0.5139238429141894,Heart Disease,No Heart Disease
+0,0,0.07741778687267277,No Heart Disease,No Heart Disease
+0,0,0.04701939077040836,No Heart Disease,No Heart Disease
+1,1,0.8181174319433435,Heart Disease,Heart Disease
