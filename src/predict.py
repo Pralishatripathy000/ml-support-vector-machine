@@ -25,12 +25,21 @@ diagnosis = (
     else "No Heart Disease"
 )
 
-print("\nPatient Features:")
-print(sample.to_string(index=False))
-
 print("\nPrediction:")
 print(diagnosis)
 
-print("\nClass Probabilities:")
-print(f"No Heart Disease: {probabilities[0]:.6f}")
-print(f"Heart Disease:    {probabilities[1]:.6f}")
+print("\nEstimated Class Probabilities:")
+
+for class_label, probability in zip(model.classes_, probabilities):
+    class_name = (
+        "Heart Disease"
+        if class_label == 1
+        else "No Heart Disease"
+    )
+
+    print(f"{class_name}: {probability:.6f}")
+
+print(
+    "\nNote: SVM class prediction is determined by the decision function; "
+    "calibrated probability estimates may not always select the same class."
+)
